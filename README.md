@@ -1,7 +1,3 @@
-Here’s a cleaned-up and polished version of your `README.md` file for the **AdImpactDashboard**:
-
----
-
 # AdImpactDashboard
 
 A dynamic R Shiny dashboard analyzing the impact of US-China trade tensions on digital advertising, delivering actionable insights for ad professionals and executives.
